@@ -11,4 +11,4 @@ Create a front-end web page which displays a random question with the available 
 Display a button that leads to a separate page with the score for the correctly answered questions in the current session. The button should be unavailable until at least three question have been answered.
 Returning to the questions page after viewing the score should reset the session and start new question sequence.
 
-Allowed technologies: .NET Core, React
+Allowed technologies: .NET Core, React, Vanilla JS
