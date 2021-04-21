@@ -14,11 +14,11 @@
     "Correct": "C"
   },
   {
-    "Question": "What is the speed of light in vaccume?",
-    "A": "25600 miles per second",
-    "B": "186000 miles per second",
-    "C": "79100000 miles per hour",
-    "Correct": "B"
+    "Question": "What is the speed of light in vacuume?",
+    "a": "25600 miles per second",
+    "b": "186000 miles per second",
+    "c": "79100000 miles per hour",
+    "Correct": "b"
   },
   {
     "Question": "Which year was Nikola Tesla born?",
@@ -32,6 +32,7 @@
     "A": "1995",
     "B": "2000",
     "C": "1998",
+    "D": "2010"
     "Correct": "A"
   }
 ]
